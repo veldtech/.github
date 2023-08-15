@@ -4,5 +4,5 @@ We're a small company building several cool products
 
 ---
 
-- [Partyverse](https://partyverse.app)
+- [Partake](https://partake.gg)
 - [Miki](https://miki.bot)
